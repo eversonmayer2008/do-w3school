@@ -120,6 +120,7 @@
     <p>Telefone: (XX) XXXX-XXXX</p>
     <p>Endereço: Av. Principal, 123 - Cidade, Estado</p>
   </div>
+
   <h2>Cardápio</h2>
   <div class="menu">
     <div class="dish">
